@@ -1,0 +1,6 @@
+E:\PTS\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.csprojResolveAssemblyReference.cache
+F:\PTS\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.dll.config
+F:\PTS\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.dll
+F:\PTS\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.pdb
+F:\PTS\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.dll
+F:\PTS\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.pdb
